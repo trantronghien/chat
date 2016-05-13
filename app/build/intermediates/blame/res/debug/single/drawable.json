@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_host.xml",
+        "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\drawable\\ic_tab_host.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_user_endable32.png",
+        "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\drawable\\icon_user_endable32.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_endble_adduse32.png",
+        "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\drawable\\icon_endble_adduse32.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_edittext.xml",
+        "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\drawable\\custom_edittext.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_use.xml",
+        "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\drawable\\ic_tab_use.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_user_disable.png",
+        "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\drawable\\icon_user_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_dis_adduse32.png",
+        "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\drawable\\icon_dis_adduse32.png"
+    }
+]

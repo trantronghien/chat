@@ -1,0 +1,8 @@
+CHANGED,E:\AndroidStudioProjects\chat\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,E:\AndroidStudioProjects\chat\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\alljoyn\bus\sample\chat\HostActivity$4$override.class
+CHANGED,E:\AndroidStudioProjects\chat\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\alljoyn\bus\sample\chat\HostActivity$6$override.class
+CHANGED,E:\AndroidStudioProjects\chat\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\alljoyn\bus\sample\chat\HostActivity$override.class
+CHANGED,E:\AndroidStudioProjects\chat\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\alljoyn\bus\sample\chat\HostActivity$2$override.class
+CHANGED,E:\AndroidStudioProjects\chat\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\alljoyn\bus\sample\chat\HostActivity$3$override.class
+CHANGED,E:\AndroidStudioProjects\chat\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\alljoyn\bus\sample\chat\HostActivity$5$override.class
+CHANGED,E:\AndroidStudioProjects\chat\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\alljoyn\bus\sample\chat\HostActivity$1$override.class

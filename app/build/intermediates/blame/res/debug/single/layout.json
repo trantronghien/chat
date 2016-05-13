@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hoststartdialog.xml",
+        "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\layout\\hoststartdialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hoststopdialog.xml",
+        "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\layout\\hoststopdialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alljoynerrordialog.xml",
+        "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\layout\\alljoynerrordialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\use.xml",
+        "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\layout\\use.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\useleavedialog.xml",
+        "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\layout\\useleavedialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\host.xml",
+        "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\layout\\host.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\usejoindialog.xml",
+        "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\layout\\usejoindialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hostnamedialog.xml",
+        "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\layout\\hostnamedialog.xml"
+    }
+]
