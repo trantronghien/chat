@@ -17,14 +17,10 @@
 package org.alljoyn.bus.sample.chat;
 
 import android.os.Bundle;
-
 import android.app.TabActivity;
-
 import android.widget.TabHost;
-
 import android.content.Intent;
 import android.content.res.Resources;
-
 import android.util.Log;
 
 public class TabWidget extends TabActivity {
