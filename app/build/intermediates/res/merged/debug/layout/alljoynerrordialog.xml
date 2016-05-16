@@ -13,7 +13,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:textColor="@color/Vilen"
+        android:textColor="@color/black"
         android:text="An error has been reported by AllJoyn:"
         android:textSize="20dp"
         android:textStyle="bold"

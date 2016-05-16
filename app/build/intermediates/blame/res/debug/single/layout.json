@@ -12,12 +12,12 @@
         "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\layout\\alljoynerrordialog.xml"
     },
     {
-        "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\use.xml",
-        "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\layout\\use.xml"
-    },
-    {
         "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
         "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\use.xml",
+        "source": "E:\\AndroidStudioProjects\\chat\\app\\src\\main\\res\\layout\\use.xml"
     },
     {
         "merged": "E:\\AndroidStudioProjects\\chat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\useleavedialog.xml",

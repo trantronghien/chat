@@ -2,74 +2,99 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
-   
+    android:layout_height="match_parent"
+    android:background="@color/Bg_use">
+
     <TableLayout
         android:layout_width="match_parent"
-    	android:layout_height="wrap_content">
-    
-        <TableRow android:gravity="center"> 
-   	        
-   	        <TextView
-    	        android:text="Channel Name:  "
-            />
-         
+        android:layout_height="wrap_content">
+
+        <TableRow android:gravity="center">
+
+            <TextView
+                android:fontFamily="cursive"
+                android:text="Channel Name:  "
+                />
+
             <TextView
                 android:id="@+id/useChannelName"
-    	        android:text="1234567890"
-            />
+                android:fontFamily="cursive"
+                android:text="1234567890"
+                />
         </TableRow>
-        
-        <TableRow android:gravity="center"> 
+
+        <TableRow android:gravity="center">
             <TextView
-    	         android:text="Channel Status:  "
-            />
-         
+                android:fontFamily="cursive"
+                android:text="Channel Status:  "
+                />
+
             <TextView
+                android:fontFamily="cursive"
                 android:id="@+id/useChannelStatus"
-    	        android:text="1234567890"
-            />
+                android:text="1234567890"
+                />
         </TableRow>
     </TableLayout>
-    
+
     <LinearLayout
         android:orientation="horizontal"
         android:gravity="center"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp">
-        
+
         <Button
-            android:id="@+id/useJoin"        
+            android:id="@+id/useJoin"
             android:layout_width="120dp"
             android:layout_height="wrap_content"
-    	    android:text="Join Channel"
-        />
-        
+            android:text="Join Channel"
+            />
+
         <Button
             android:id="@+id/useLeave"
             android:layout_width="120dp"
             android:layout_height="wrap_content"
-    	    android:text="Leave Channel"
-        />
+            android:text="Leave Channel"
+            />
     </LinearLayout>
-    
-    <EditText
-        android:id="@+id/useMessage"
+
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="5dp"
-        android:hint="Enter message here"
-        android:imeOptions="actionDone"
-    />
-       
-    <ListView 
-        android:id="@+id/useHistoryList"           
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="5dp"
-        android:divider="#ff505050"
-        android:dividerHeight="1dp"
-        android:transcriptMode="alwaysScroll"
-    />
+        android:orientation="vertical">
+        <ListView
+            android:id="@+id/useHistoryList"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:divider="@null"
+            android:stackFromBottom="true"
+            android:transcriptMode="alwaysScroll">
+
+        </ListView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="3">
+
+            <EditText
+                android:background="@drawable/custom_edittext"
+                android:id="@+id/useMessage"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:hint="@string/Text_message"
+                android:layout_weight="2" />
+            <Button
+                android:id="@+id/send"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:text="Send" />
+        </LinearLayout>
+    </LinearLayout>
+
 </LinearLayout>

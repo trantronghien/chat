@@ -11,46 +11,60 @@ public final class R {
     public static final class attr {
     }
     public static final class color {
-        public static final int Channel=0x7f040000;
-        public static final int RED=0x7f040001;
-        public static final int Vilen=0x7f040002;
+        public static final int BgDialog=0x7f040000;
+        public static final int Bg_skype=0x7f040001;
+        public static final int Bg_use=0x7f040002;
+        public static final int Channel=0x7f040003;
+        public static final int Linear_button=0x7f040004;
+        public static final int RED=0x7f040005;
+        public static final int Tad_Host=0x7f040006;
+        public static final int Text_color=0x7f040007;
+        public static final int black=0x7f040008;
     }
     public static final class drawable {
-        public static final int custom_edittext=0x7f020000;
-        public static final int ic_tab_host=0x7f020001;
-        public static final int ic_tab_use=0x7f020002;
-        public static final int icon=0x7f020003;
-        public static final int icon_dis_adduse32=0x7f020004;
-        public static final int icon_endble_adduse32=0x7f020005;
-        public static final int icon_user_disable=0x7f020006;
-        public static final int icon_user_endable32=0x7f020007;
+        public static final int bg_in_view=0x7f020000;
+        public static final int button_disabled=0x7f020001;
+        public static final int button_enabled=0x7f020002;
+        public static final int custom_button=0x7f020003;
+        public static final int custom_edittext=0x7f020004;
+        public static final int gradiend_bg=0x7f020005;
+        public static final int ic_tab_host=0x7f020006;
+        public static final int ic_tab_use=0x7f020007;
+        public static final int icon=0x7f020008;
+        public static final int icon_dis_adduse32=0x7f020009;
+        public static final int icon_endble_adduse32=0x7f02000a;
+        public static final int icon_name24=0x7f02000b;
+        public static final int icon_question32=0x7f02000c;
+        public static final int icon_user_disable=0x7f02000d;
+        public static final int icon_user_endable32=0x7f02000e;
     }
     public static final class id {
-        public static final int errorDescription=0x7f060000;
-        public static final int errorOk=0x7f060001;
-        public static final int hostChannelName=0x7f060002;
-        public static final int hostChannelStatus=0x7f060003;
-        public static final int hostNameCancel=0x7f06000a;
-        public static final int hostNameChannel=0x7f060008;
-        public static final int hostNameOk=0x7f060009;
-        public static final int hostQuit=0x7f060007;
-        public static final int hostSetName=0x7f060004;
-        public static final int hostStart=0x7f060005;
-        public static final int hostStartCancel=0x7f06000c;
-        public static final int hostStartOk=0x7f06000b;
-        public static final int hostStop=0x7f060006;
-        public static final int hostStopCancel=0x7f06000e;
-        public static final int hostStopOk=0x7f06000d;
-        public static final int useChannelName=0x7f06000f;
-        public static final int useChannelStatus=0x7f060010;
-        public static final int useHistoryList=0x7f060014;
-        public static final int useJoin=0x7f060011;
-        public static final int useJoinCancel=0x7f060016;
-        public static final int useJoinChannelList=0x7f060015;
-        public static final int useLeave=0x7f060012;
-        public static final int useLeaveCancel=0x7f060018;
-        public static final int useLeaveOk=0x7f060017;
-        public static final int useMessage=0x7f060013;
+        public static final int errorDescription=0x7f070000;
+        public static final int errorOk=0x7f070001;
+        public static final int hostChannelName=0x7f070002;
+        public static final int hostChannelStatus=0x7f070003;
+        public static final int hostNameCancel=0x7f07000a;
+        public static final int hostNameChannel=0x7f070008;
+        public static final int hostNameOk=0x7f070009;
+        public static final int hostQuit=0x7f070007;
+        public static final int hostSetName=0x7f070004;
+        public static final int hostStart=0x7f070005;
+        public static final int hostStartCancel=0x7f07000c;
+        public static final int hostStartOk=0x7f07000b;
+        public static final int hostStop=0x7f070006;
+        public static final int hostStopCancel=0x7f07000e;
+        public static final int hostStopOk=0x7f07000d;
+        public static final int send=0x7f070015;
+        public static final int useChannelName=0x7f07000f;
+        public static final int useChannelStatus=0x7f070010;
+        public static final int useHistoryList=0x7f070013;
+        public static final int useJoin=0x7f070011;
+        public static final int useJoinCancel=0x7f070017;
+        public static final int useJoinChannelList=0x7f070016;
+        public static final int useLeave=0x7f070012;
+        public static final int useLeaveCancel=0x7f070019;
+        public static final int useLeaveOk=0x7f070018;
+        public static final int useMessage=0x7f070014;
     }
     public static final class layout {
         public static final int alljoynerrordialog=0x7f030000;
@@ -64,6 +78,12 @@ public final class R {
         public static final int useleavedialog=0x7f030008;
     }
     public static final class string {
-        public static final int app_name=0x7f050000;
+        public static final int Text_message=0x7f050000;
+        public static final int app_name=0x7f050001;
+        public static final int hint_edit_chat=0x7f050002;
+    }
+    public static final class style {
+        public static final int button=0x7f060000;
+        public static final int themes_button=0x7f060001;
     }
 }

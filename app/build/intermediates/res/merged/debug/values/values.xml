@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="BgDialog">#296398</color>
+    <color name="Bg_skype">#00AFF0</color>
+    <color name="Bg_use">#D3DAE2</color>
     <color name="Channel">#0b0a0a</color>
+    <color name="Linear_button">#425C74</color>
     <color name="RED">#ea3333</color>
-    <color name="Vilen">#9f059d</color>
+    <color name="Tad_Host">#238FBE</color>
+    <color name="Text_color">#fff</color>
+    <color name="black">#1a1819</color>
+    <string name="Text_message">Enter Your Message </string>
     <string name="app_name">Chat for Android</string>
+    <string name="hint_edit_chat">Enter message here</string>
+    <style name="button" parent="@android:style/Widget.Button">
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:shadowColor">#FF000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">-1</item>
+        <item name="android:shadowRadius">0.2</item>
+        <item name="android:textSize">16dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/custom_button</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="themes_button" parent="android:style/Theme.NoTitleBar">
+        <item name="android:buttonStyle">@style/button</item>
+    </style>
 </resources>

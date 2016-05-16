@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Chat for Android</string>
+    <string name="hint_edit_chat">Enter message here</string>
+    <string name="Text_message" >Enter Your Message </string>
 </resources>

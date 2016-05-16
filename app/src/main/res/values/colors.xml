@@ -3,4 +3,10 @@
     <color name="Channel">#0b0a0a</color>
     <color name="black">#1a1819</color>
     <color name="RED">#ea3333</color>
+    <color name="BgDialog">#296398</color>
+    <color name="Bg_use">#D3DAE2</color>
+    <color name="Bg_skype">#00AFF0</color>
+    <color name="Linear_button">#425C74</color>
+    <color name="Text_color">#fff</color>
+    <color name="Tad_Host">#238FBE</color>
 </resources>

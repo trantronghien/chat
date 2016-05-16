@@ -43,7 +43,15 @@ import android.util.Log;
 import java.util.List;
 
 public class UseActivity extends Activity implements Observer {
+
     private static final String TAG = "chat.UseActivity";
+    private ChatApplication mChatApplication = null;
+    private ArrayAdapter<String> mHistoryList;
+    private Button mJoinButton;
+    private Button mLeaveButton;
+    private TextView mChannelName;
+    private TextView mChannelStatus;
+
 
     public void onCreate(Bundle savedInstanceState) {
         Log.i(TAG, "onCreate()");
@@ -254,14 +262,5 @@ public class UseActivity extends Activity implements Observer {
         }
     };
 
-    private ChatApplication mChatApplication = null;
 
-    private ArrayAdapter<String> mHistoryList;
-
-    private Button mJoinButton;
-    private Button mLeaveButton;
-
-    private TextView mChannelName;
-
-    private TextView mChannelStatus;
 }
